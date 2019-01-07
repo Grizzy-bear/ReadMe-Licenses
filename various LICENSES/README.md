@@ -64,10 +64,12 @@ Apache 协议还有以下需要说明的地方:
 
 分发代码方面包含一些要求，主要是，要在声明中对参与开发的人给予认可并包含一份许可协议原文。
 
-![协议展示图]()
 
-###感谢@
+---------------------------------
+![协议展示图](https://github.com/Grizzy-bear/ReadMe-Templates/blob/master/various%20LICENSES/demo.jpg "图片")
+--------------------------------
+### 感谢@
 
-感谢[opensource](https://opensource.org)
-感谢[newcaoguo](https://www.cnblogs.com/newcaoguo/p/7103249.html)
-感谢[愷风（Wei）的专栏](https://blog.csdn.net/flowingflying/article/details/5746151)
+感谢[opensource](https://opensource.org)<br>
+感谢[newcaoguo](https://www.cnblogs.com/newcaoguo/p/7103249.html)<br>
+感谢[愷风（Wei）的专栏](https://blog.csdn.net/flowingflying/article/details/5746151)<br>
