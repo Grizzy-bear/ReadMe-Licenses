@@ -4,7 +4,7 @@ various LICENSES
 
 Collect all kinds of agreements, and gradually supplement the description of the agreements.
 
-[中文版]()
+[中文版](https://github.com/Grizzy-bear/ReadMe-Templates/blob/master/various%20LICENSES/README-zh.md)
 ---------------------------------
 
 
